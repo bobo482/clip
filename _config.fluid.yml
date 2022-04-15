@@ -312,7 +312,7 @@ navbar:
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
-    - { key: "links", link: "http://zhongkao.xdf.cn/shitiku/index.html?adpl=XDF_zhongxue_zhongkaoN_NEWS_bannerA_nb_1190*110&adct=中考频道-初中资料库&adv_hash=c94354103e880ad6f0d66fe41a7d9249", icon: "iconfont icon-link-fill" }
+    - { key: "初中试题库-新东方", link: "http://zhongkao.xdf.cn/shitiku/index.html?adpl=XDF_zhongxue_zhongkaoN_NEWS_bannerA_nb_1190*110&adct=中考频道-初中资料库&adv_hash=c94354103e880ad6f0d66fe41a7d9249", icon: "iconfont icon-link-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
