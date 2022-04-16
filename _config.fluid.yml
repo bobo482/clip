@@ -903,7 +903,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://rmt.dogedoge.com/fetch/fluid/storage/bg/73twhs.png?w=1920&fmt=webp
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
