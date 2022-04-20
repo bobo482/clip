@@ -744,8 +744,8 @@ waline:
   avatarCDN: ''
   avatarForce: false
   requiredFields: []
-  emojiCDN: 'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq'
-  emojiMaps: 'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq'
+  emojiCDN: 
+  emojiMaps: 
   anonymous:
 
 # 畅言 Changyan
