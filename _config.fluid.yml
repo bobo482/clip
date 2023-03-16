@@ -817,7 +817,7 @@ valine:
 # Derived from Valine, with self-hosted service and new features
 # See: https://waline.js.org/
 waline:
-  serverURL: 'https://comments.apaperclip.tk'
+  serverURL: 'https://comments.xn--q35an6k.tk'
   path: window.location.pathname
   meta: ['nick', 'mail', 'link']
   requiredMeta: ['nick']
@@ -1078,7 +1078,7 @@ static_prefix:
 
   valine: https://lib.baomitu.com/valine/1.4.18/
 
-  waline: https://lib.baomitu.com/waline/2.14.1/
+  waline: https://lib.baomitu.com/waline/2.14.9/
 
   gitalk: https://lib.baomitu.com/gitalk/1.7.2/
 
