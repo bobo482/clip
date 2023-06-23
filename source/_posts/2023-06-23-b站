@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      b站嵌套
+subtitle:   
+date:     2023-06-23 12:00:00
+sticky: 100
+author:     "lf"
+catalog: false
+header-style: text
+tags:
+  - 闲聊
+---
+
+
+
+<iframe src="https://www.bilibili.com/" width="950" height="500" name="topFrame" scrolling="yes"  noresize="noresize" frameborder="0" id="topFrame"></iframe>
