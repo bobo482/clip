@@ -443,7 +443,7 @@ footer:
   # 国内大陆服务器的备案信息
   # For Chinese mainland website policy, other areas keep disable
   beian:
-    enable: false
+    enable: true
     # ICP证号
     icp_text: 浙ICP备17007822号
     # 公安备案号，不填则只显示ICP
@@ -811,7 +811,7 @@ valine:
 # Derived from Valine, with self-hosted service and new features
 # See: https://waline.js.org/
 waline:
-  serverURL: 'https://comments.xn--q35an6k.tk'
+  serverURL: 'https://waline.apaperclip.eu.org'
   path: window.location.pathname
   meta: ['nick', 'mail', 'link']
   requiredMeta: ['nick']
