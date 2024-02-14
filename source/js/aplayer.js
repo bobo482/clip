@@ -11,6 +11,7 @@
         loop: 'all',
         order: 'random',
         theme: '#b7daff',
+        lrcType: 3,
         preload: 'none',
         audio: [
           {
