@@ -577,7 +577,7 @@ post:
     # 浏览量计数
     # Number of visits
     views:
-      enable: false
+      enable: true
       # 统计数据来源
       # Data Source
       # Options: busuanzi | leancloud
@@ -1092,7 +1092,7 @@ static_prefix:
 
   valine: https://lib.baomitu.com/valine/1.5.1/
 
-  waline: https://cdn.staticfile.org/waline/2.15.5/
+  waline: https://cdn.staticfile.org/waline/3.0.0/
 
   gitalk: https://lib.baomitu.com/gitalk/1.8.0/
 
