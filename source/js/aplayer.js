@@ -17,7 +17,15 @@
             name: 'Flower Dance',
             artist: 'DJ OKAWARI',
             url: '/songs/DJ OKAWARI - Flower Dance.mp3',
-            cover: '/img/cover.jpg'
+            cover: '/img/cover.jpg',
+            lrc: '/lrc/DJ OKAWARI - Flower Dance.lrc'
+          },
+          {
+            name: 'Luv Letter',
+            artist: 'DJ OKAWARI',
+            url: '/songs/DJ OKAWARI - Luv Letter (情书).mp3',
+            cover: '/img/Luv Letter.jpg',
+            lrc: '/lrc/DJ OKAWARI - Luv Letter (情书).lrc'
           }
         ]
       });
