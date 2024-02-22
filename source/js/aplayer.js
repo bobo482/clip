@@ -27,6 +27,12 @@
             url: '/songs/DJ OKAWARI - Luv Letter (情书).mp3',
             cover: '/img/Luv Letter.jpg',
             lrc: '/lrc/DJ OKAWARI - Luv Letter (情书).lrc'
+          },
+          {
+            name: '溯（钢琴版）',
+            artist: '柳轻颂',
+            url: 'http://music.163.com/song/media/outer/url?id=1433584979.mp3',
+            cover: 'http://p1.music.126.net/qX7knUIlpmbJ34UBzCCS6w==/109951164802366812.jpg?param=130y130'
           }
         ]
       });
