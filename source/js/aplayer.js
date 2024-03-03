@@ -32,7 +32,8 @@
             name: '溯（钢琴版）',
             artist: '柳轻颂',
             url: 'http://music.163.com/song/media/outer/url?id=1433584979.mp3',
-            cover: 'http://p1.music.126.net/qX7knUIlpmbJ34UBzCCS6w==/109951164802366812.jpg?param=130y130'
+            cover: 'http://p1.music.126.net/qX7knUIlpmbJ34UBzCCS6w==/109951164802366812.jpg?param=130y130',
+            lrc: '[00:00.000] 纯音乐，请欣赏'
           }
         ]
       });
