@@ -515,7 +515,7 @@ index:
 
       # 请求地址
       # Request url
-      url: "https://v1.hitokoto.cn/"
+      url: "https://v1.hitokoto.cn/?c=a"
 
       # 请求方法
       # Request method
